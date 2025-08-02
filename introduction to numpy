@@ -1,0 +1,14 @@
+What is NumPy?
+Library: NumPy is a Python library.
+
+Working with arrays: It provides support for working with large, multi-dimensional arrays and matrices.
+
+Stands for: Numerical Python.
+
+Why use NumPy?
+Faster than Python lists: NumPy arrays use less memory and are faster for numerical operations.
+
+Efficient processing: It uses optimized C code under the hood, which makes operations like addition, multiplication, and matrix computation much faster.
+
+Better tools: It provides many useful functions for linear algebra, statistics, and more.
+
