@@ -12,3 +12,13 @@ Efficient processing: It uses optimized C code under the hood, which makes opera
 
 Better tools: It provides many useful functions for linear algebra, statistics, and more.
 
+----------------------------------------------------------------------------------------------------
+If you're analyzing data stored in a CSV file, the usual process is:
+
+First, use the pandas library to read the CSV file and convert it into a DataFrame. Pandas makes it easy to explore and clean your data.
+
+Next, once your data is ready, you can convert the DataFrame into a NumPy array using .to_numpy() or .values.
+
+Finally, you can use NumPy to perform fast mathematical operations on the data, such as calculating means, standard deviations, or doing matrix operations.
+
+----------------------------------------------------------------------------------------------------
